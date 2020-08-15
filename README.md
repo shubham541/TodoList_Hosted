@@ -9,4 +9,5 @@ It uses MongoDB as the database for storing the created list.
 The webapp is hosted on heroku at URL : https://murmuring-cliffs-89151.herokuapp.com/
 
 Dynamic standalone lists can also be created using URL/newListName
+
 Eg: https://murmuring-cliffs-89151.herokuapp.com/Work-List
